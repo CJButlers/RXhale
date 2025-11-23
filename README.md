@@ -14,7 +14,7 @@ This the second part to a two part digital system. This web dashboard is intende
 
 ## Contributors
 * [CJ Butler](www.linkedin.com/in/cecilbutler)
-* [Connie Le]](https://www.linkedin.com/in/connie-le-a0267a349/)
+* [Connie ()Le](https://www.linkedin.com/in/connie-le-a0267a349/)
 * [Sidney Le](https://www.linkedin.com/in/sidney-le-125353297/)
 * [Chloe Chung](https://www.linkedin.com/in/chung-chloe/)
 * [Ibrahim Tazkarji](https://www.linkedin.com/in/ibrahim-tazkarji-7b9006197/)
